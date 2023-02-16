@@ -5,18 +5,22 @@ date: 2023-02-15
 ---
 <h1><b>Second Step</b></h1>
 <p align="justify">
-  This week, I focused my learning on 'Functions' and 'Arrays' in C#. Functions play a crucial role in programming. A function is block of code which execute statements specified inside it. 
+  This week, I focused my learning on 'Functions' and 'Arrays' in C#. Functions play a crucial role in programming. A function is block of code which execute       statements specified inside it. 
   The execution of the function happens by calling the function. It is simpler to read and maintain code when huge applications are divided into smaller, 
   more manageable portions using functions. Additionally, by reusing functions across the entire application, it will save time and length of the code. 
   A function can be invoked from other areas of the program once it has been defined.
   I intially learnt about the syntax of the function in C#.
-  <pre><code>
+  </p>
+  <pre>
+  <code>
   "access-specifier" "return-type" NameoftheFunction(<parameters>)  
   {  
     // body of the function  
     // return statement  
   } 
-  </code></pre>
+  </code>
+  </pre>
+<p align="justify">
   The syntax of the functions in C# is similar to various Object-Oriented Programing Languages such as Java, C++, etc. Due to this I was able to understand 
   functions quickly in C#. As I understood the functions quickly in C#. I made an attempt to create a program to show invoking the function. 
   This <a href="https://github.com/rugveth1210/Language-Learning-Blog/blob/main/_Codes/FunctionCallByValue.cs">Call By Value</a> demonstrate calling 
