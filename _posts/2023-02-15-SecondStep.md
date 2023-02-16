@@ -12,16 +12,6 @@ date: 2023-02-15
   I intially learnt about the syntax of the function in C#.
   </p>
   
-  <pre>
-  <code>
-  "access-specifier" "return-type" NameoftheFunction(<parameters>)  
-  {  
-    // body of the function  
-    // return statement  
-  } 
-  </code>
-  </pre>
-  
 <p align="justify">
   The syntax of the functions in C# is similar to various Object-Oriented Programing Languages such as Java, C++, etc. Due to this I was able to understand 
   functions quickly in C#. As I understood the functions quickly in C#. I made an attempt to create a program to show invoking the function. 
