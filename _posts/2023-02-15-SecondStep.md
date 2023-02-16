@@ -11,7 +11,7 @@ date: 2023-02-15
   A function can be invoked from other areas of the program once it has been defined.
   I intially learnt about the syntax of the function in C#.
   <pre><code>
-  <access-specifier> <return-type> NameoftheFunction(<parameters>)  
+  "access-specifier" "return-type" NameoftheFunction(<parameters>)  
   {  
     // body of the function  
     // return statement  
