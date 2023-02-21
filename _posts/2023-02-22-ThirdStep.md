@@ -22,6 +22,8 @@ date: 2023-02-22
   Furthermore, I worked on jagged arrays in C#. These are arrays of arrays, where each sub-array can have a different length. To create a jagged array in C#, 
   I used the following syntax:
   <code>dataType[][] arrayName = new dataType[numberOfSubArrays][];</code>
+  </p>
+  <p align="justify">
   <b>One of the challenges I face with jagged arrays is that they can be more difficult to work with than multidimensional arrays. Because each sub-array can have a different 
     length, you need to be careful when accessing and manipulating the data stored in them.</b> Here is an <a href="https://github.com/rugveth1210/Language-Learning-Blog/blob/main/_Codes/JaggedArray.cs">Jagged Array</a>
   example.
