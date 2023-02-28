@@ -23,11 +23,13 @@ date: 2023-03-01
   This class includes methods for sorting arrays, searching arrays, and manipulating arrays in various ways. One of the most useful methods provided by the Array class 
   is the Copy method, which allows you to copy the contents of one array into another array. Here's an example that shows how to use the Copy method:
 </p>
+<pre>
 <code>
   int[] myArray = new int[] { 1, 12, 32 };
   int[] newArray = new int[3];
   Array.Copy(myArray, newArray, 3);
 </code>
+</pre>
 <p align="justify">
   In this example, we're creating two arrays, myArray and newArray. We then use the Copy method to copy the contents of myArray into newArray. The third parameter of 
   the Copy method specifies the number of elements to copy, which in this case is three. <b>While working with arrays I faced challenging error such as index out of 
