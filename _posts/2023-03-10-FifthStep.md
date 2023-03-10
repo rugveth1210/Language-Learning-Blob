@@ -22,8 +22,8 @@ date: 2023-03-10
   constructor parameters.
   A constructor is a special method that is used to create and initialize an object of a class. <b>Another Challenge I faced when learning C# Object, Class, and Constructor is 
   learning how to use constructors to create and initialize objects.</b> The this keyword is used to refer to the current object in a class. It can be used to access the 
-  fields and methods of the current object. Apart from this, another challenge I faced 
-  when learning C# Object, Class, and Constructor is learning how to use the this keyword to refer to the current object. Here is an example based on above concepts 
+  fields and methods of the current object. <b>Apart from this, another challenge I faced 
+  when learning C# Object, Class, and Constructor is learning how to use the this keyword to refer to the current object.</b> Here is an example based on above concepts 
   I used in <a href="https://github.com/rugveth1210/Language-Learning-Blog/blob/main/_Codes/Employee.cs">code</a>.
 </p>
 
